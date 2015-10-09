@@ -11,6 +11,15 @@
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
       "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "example231",
+      "title": "適当",
+      "url": "http://kenyat1989.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
+      "html": "",
+      "maxZoom": 18,
+      "maxNativeZoom": 2
     }
   ]
 }
